@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basicJava1/basicJava1.iml" filepath="$PROJECT_DIR$/basicJava1/basicJava1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/basicJava2/java2/java2.iml" filepath="$PROJECT_DIR$/basicJava2/java2/java2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/selenium-homework.iml" filepath="$PROJECT_DIR$/.idea/selenium-homework.iml" />
     </modules>
   </component>
