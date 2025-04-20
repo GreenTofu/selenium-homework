@@ -1,6 +1,6 @@
 public class Calculator {
-    long a; long b;
-    double c; double d;
+    long a, b;
+    double c, d;
 
     public long add(long a, long b) {
         return a + b;
