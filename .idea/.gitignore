@@ -1,0 +1,14 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+
+# Ignored files
+*.iml
+*.iws
+
+# Ignored directories
+.idea/
+out/
+
+#exclude files
+!.idea/.gitignore
